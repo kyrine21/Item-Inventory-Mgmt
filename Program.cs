@@ -117,7 +117,6 @@ namespace Item_Inventory_Mgmt
 
                 Console.Write("\n\n");
 
-
             }
         }
         static void addItem()
@@ -160,10 +159,7 @@ namespace Item_Inventory_Mgmt
 
                 }
             }
-
-            
-
-            
+          
         }
 
         static void deleteItem()
@@ -209,6 +205,8 @@ namespace Item_Inventory_Mgmt
                 Console.WriteLine("-------------------------");
             }
         }
+
+
 
         static void updateItem()
         {
